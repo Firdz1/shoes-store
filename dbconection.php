@@ -1,7 +1,7 @@
 <?php
 
 //masukan lokasi dan nama file database
-$dsn = 'mysql:dbname=db_shoes_store;host=localhost';
+$dsn = 'mysql:Kasir_Sepatu=dbname=db_shoes_store;host=localhost';
 $user = 'root';
 $password = '';
 
